@@ -15,41 +15,6 @@ It allows users to **add**, **mark as done**, **delete**, and **save tasks** so 
 ---
 
 ## 📸 Screenshot
-# To-Do App (Java Swing)
-
-A simple desktop **To-Do list** application built using **Java Swing**.  
-It allows users to **add**, **mark as done**, **delete**, and **save tasks** so that they remain even after closing the app.
-
----
-
-## ✨ Features
-- **Add Tasks** via the input field or by pressing **Enter**.
-- **Delete Selected Tasks** using the Delete button.
-- **Mark Tasks as Done** with a double-click.
-- **Scrollable Task List** for better task management.
-- **Persistent Storage** — all tasks are saved in `tasks.txt` and reloaded when you start the app again.
-
----
-
-## 📸 Screenshot
-
-# To-Do App (Java Swing)
-
-A simple desktop **To-Do list** application built using **Java Swing**.  
-It allows users to **add**, **mark as done**, **delete**, and **save tasks** so that they remain even after closing the app.
-
----
-
-## ✨ Features
-- **Add Tasks** via the input field or by pressing **Enter**.
-- **Delete Selected Tasks** using the Delete button.
-- **Mark Tasks as Done** with a double-click.
-- **Scrollable Task List** for better task management.
-- **Persistent Storage** — all tasks are saved in `tasks.txt` and reloaded when you start the app again.
-
----
-
-## 📸 Screenshot
 
 <img width="508" height="619" alt="Screenshot 2025-08-12 145920" src="https://github.com/user-attachments/assets/b34d1a9b-46d6-46c9-b1c1-8ed633e44a2b" />
 
